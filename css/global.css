@@ -1,4 +1,4 @@
-/* Base */
+
 
 :root {
     --color-body: #333333;
@@ -109,7 +109,7 @@
     }
   }
   
-  /* Sections */
+  
   
   section {  
     padding: 5.5rem 0;
@@ -684,4 +684,4 @@
     }
   }
   
-  /* components */
+  
